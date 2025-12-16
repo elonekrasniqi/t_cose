@@ -15,7 +15,6 @@ This repository is intended to bridge theoretical cryptographic standards with p
 The primary objectives of this project are:
 
 - Analyze **Hybrid Public Key Encryption (HPKE)** as specified in **RFC 9180**
-- Study and compare HPKE usage within **JOSE** and **COSE**
 - Examine **KDF context construction** and its role in binding protocol state
 - Discuss mitigation of protocol-level attacks, including **Unknown Key Share (UKS)** attacks
 - Explore **post-quantum cryptography integration** in COSE
@@ -85,8 +84,6 @@ Message: Hello ML-DSA!
 
 - **RFC 9180** – Hybrid Public Key Encryption (HPKE)
 - **Use of HPKE with COSE** – IETF Internet-Draft
-- **Use of HPKE with JOSE** – IETF Internet-Draft
-- **NIST SP 800-56A Rev. 3** – Recommendations for Key Establishment
 - **liboqs** – https://openquantumsafe.org
 
 ---
