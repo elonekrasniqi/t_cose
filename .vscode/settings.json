@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "t_cose_standard_constants.h": "c",
+        "ml_dsa_signer.h": "c",
+        "t_cose_util.h": "c",
+        "t_cose_parameters.h": "c",
+        "qcbor.h": "c",
+        "qcbor_decode.h": "c",
+        "qcbor_spiffy_decode.h": "c",
+        "t_cose_sign1_verify.h": "c",
+        "q_useful_buf.h": "c",
+        "t_cose_common.h": "c"
+    }
+}
